@@ -1,1 +1,1 @@
-# fullstack2-labs
+# Fullstack2 - Lab1: ReactBasics
